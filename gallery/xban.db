@@ -1,0 +1,14 @@
+return {
+	["timestamp"] = 1550209168,
+	[1] = {
+		["names"] = {
+			["127.0.0.1"] = true,
+			["singleplayer"] = true,
+		},
+		["record"] = {
+
+		},
+		["last_seen"] = 1550209047,
+		["banned"] = false,
+	},
+}
